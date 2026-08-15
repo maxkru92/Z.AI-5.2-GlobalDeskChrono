@@ -1,0 +1,27 @@
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdatad/
+DerivedData/
+build/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode crashes
+*.xccheckout
+*.moved-aside
